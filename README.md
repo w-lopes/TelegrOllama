@@ -81,3 +81,12 @@ If you see "Unable to connect to Ollama", check the following:
 
 ### Database Permissions
 The application automatically creates the SQLite database in the `./data` directory. Ensure the directory is writable by the Docker container.
+
+## Prints
+
+<img width="1919" height="966" alt="to1" src="https://github.com/user-attachments/assets/ba7551e0-0b0f-4c35-ba36-25972a129071" />
+
+<img width="1919" height="966" alt="to2" src="https://github.com/user-attachments/assets/967a4c23-cd2f-44e5-b3cc-b63b66f02f39" />
+
+<img width="1920" height="966" alt="to3" src="https://github.com/user-attachments/assets/b8eeaf3f-3259-4ef6-9e8b-6db996e71f19" />
+

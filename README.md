@@ -8,7 +8,7 @@ A polished, fully local AI character chat application. Inspired by modern messag
 
 This project wasn't just coded; it was *co-created*. I built this entire application in less than **2 hours** using only about **10 to 15 prompts**!
 
-I leveraged a local LLM (**Qwen3 14B Q4_K_M**) running via **Ollama**, proving that you don't need massive cloud clusters to build high-quality software. All the heavy lifting was done on my local machine:
+I leveraged a local LLM ([**Qwen3 14B Q4_K_M**](http://huggingface.co/Qwen/Qwen3-14B)) running via **Ollama**, proving that you don't need massive cloud clusters to build high-quality software. All the heavy lifting was done on my local machine:
 
 *   **CPU**: 12th Gen Intel(R) Core(TM) i7-12700
 *   **RAM**: 64GB

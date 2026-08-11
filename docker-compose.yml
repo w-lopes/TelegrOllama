@@ -12,6 +12,8 @@ services:
     environment:
       - OLLAMA_HOST=${OLLAMA_HOST}
       - OLLAMA_MODEL=${OLLAMA_MODEL}
+    command: >
+      sh -c "php /var/www/html/src/init_db.php && php-fpm"
 
   web:
     image: nginx:alpine
